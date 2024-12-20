@@ -16,11 +16,12 @@ Google Colab (optional, but recommended for seamless integration)
 Installation
 Clone the repository and ensure you have the required dependencies installed:
 
-bash
-Copy code
+```bash
 git clone https://github.com/your_username/brain-tumor-detection.git
 cd brain-tumor-detection
 pip install -r requirements.txt
+```
+
 Dataset Preparation
 Obtain Kaggle API Key:
 Log into your Kaggle account and download your API key (kaggle.json).
