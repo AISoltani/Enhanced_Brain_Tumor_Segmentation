@@ -41,6 +41,7 @@ Open the notebook in your preferred environment:
 The model is a lightweight U-Net with reduced layers and operates on downscaled image data (128x128). This allows for faster training and inference without significant loss in accuracy.
 
 # Results
+<img src="https://raw.githubusercontent.com/AISoltani/Breast-Cancer-Prediction/refs/heads/main/BreastCancerPR.png" alt="Breast Cancer Prediction Model" width="600"/>
 - Performance: Achieves high accuracy with minimal computational cost.
 - Efficiency: Suitable for real-time applications on less powerful devices.
 # Repository Structure
